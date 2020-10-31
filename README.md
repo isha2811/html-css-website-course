@@ -1,2 +1,3 @@
 # html-css-website
-Build a beatiful HTML/CSS website. Code for the scotch.io course.
+learn  how to Build a beatiful HTML/CSS website. Code for the scotch.io course.
+# properties
